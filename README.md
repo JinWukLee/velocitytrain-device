@@ -29,7 +29,7 @@ This repository contains the Arduino firmware and design logic for a compact, ve
 - `docs/`: Supporting documentation (future updates)
 
 ## 🎥 Demo & Documentation
-[👉 Click here to access design videos and demo walkthrough](https://drive.google.com/drive/folders/192VMI9i2ERZRvw-EJ-ldwrsGDiov8WNI)
+[👉 Click here to access CAD files and demo walkthrough](https://drive.google.com/drive/folders/192VMI9i2ERZRvw-EJ-ldwrsGDiov8WNI)
 
 ## Collaborators
 - Jin Wuk Lee
